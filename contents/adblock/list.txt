@@ -21,6 +21,7 @@ namu.wiki##[src="//namu.live/static/ad/"]
 ! 뉴스 댓글창 안볼래요
 news.naver.com###cbox_module
 m.news.naver.com##.ends_btn
+news.naver.com###spiLayer > .u_likeit._reactionModule
 
 ! 나는 크롬이 싫어요
 news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
