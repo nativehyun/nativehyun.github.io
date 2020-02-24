@@ -18,6 +18,10 @@
 ||namu.live/static/ad/$subdocument
 namu.wiki##[src="//namu.live/static/ad/"]
 
+! 나는 크롬이 싫어요
+news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
+www.google.com##.gb_na.gb_F
+
 ! 안티-애드블럭
 ##tobsideAd
 ##leftframeAD
