@@ -3,7 +3,7 @@
 ! Homepage: https://nativehyun.xyz
 ! License: Creative Commons BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Expires: 1 day
-! Version: 20200225-6
+! Version: 20200225-7
 
 ! 잠깐! 사용하기 전에...
 ! 이 필터는 제가 개인적으로 사용하려고 만든 필터입니다. 이 필터 사용에 대한 책임은 모두 사용자에게 있습니다.
@@ -58,3 +58,4 @@ tistory.com##+js(setTimeout-defuser, nextFunction, 250)
 tistory.com##+js(setTimeout-defuser, nextFunction, 250)
 ||ad.daum.net^
 ||daumcdn.net/tiara/
+||t1.daumcdn.net/liveboard/f/IuK5wrFEZuYuVSYbu-kDM/_next/static/chunks/*$script,domain=1boon.kakao.com
