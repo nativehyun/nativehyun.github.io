@@ -37,6 +37,7 @@ news.chosun.com##.csh_min_count
 news.chosun.com##.news_like
 www.donga.com##.recommend
 www.donga.com##.reply_btnwrap
+www.mk.co.kr##div.reple_box:nth-of-type(4)
 
 ! 크롬 깔라고 좀 그만해요
 news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
