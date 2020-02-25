@@ -3,7 +3,7 @@
 ! Homepage: https://nativehyun.xyz
 ! License: Creative Commons BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Expires: 1 day
-! Version: 20200225-3
+! Version: 20200225-4
 
 ! 잠깐! 사용하기 전에...
 ! 이 필터는 제가 개인적으로 사용하려고 만든 필터입니다. 이 필터 사용에 대한 책임은 모두 사용자에게 있습니다.
@@ -34,6 +34,7 @@ m.news.naver.com###cbox_module
 m.news.naver.com###commentFontGroup
 news.chosun.com###news_comment_id
 news.chosun.com##.csh_min_count
+news.chosun.com##.news_like
 
 ! 크롬 깔라고 좀 그만해요
 news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
