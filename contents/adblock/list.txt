@@ -14,10 +14,13 @@
 @@||nativehyun.xyz^$important,document,~extension
 @@||ecosia.org^$important,document,~extension
 
-! 나무위키 광고 및 나무라이브 차단
+! 나무위키 광고
 ||namu.live/static/ad/$subdocument
 namu.wiki##[src="//namu.live/static/ad/"]
+! 나무라이브 버튼 삭제
 namu.wiki##li:nth-of-type(4) > [href="#"]
+! 나무위키 인기검색어 삭제
+namu.wiki##div.c:nth-of-type(3)
 
 ! 뉴스 댓글창 안볼래요
 news.naver.com###cbox_module
@@ -30,7 +33,7 @@ m.news.naver.com###comment_count
 m.news.naver.com###cbox_module
 m.news.naver.com###commentFontGroup
 
-! 나는 크롬이 싫어요
+! 크롬 깔라고 좀 그만해요
 news.google.com##.gb_na.gb_5c.gb_3c.gb_4c
 www.google.com##.gb_na.gb_F
 
