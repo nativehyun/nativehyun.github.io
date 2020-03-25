@@ -3,7 +3,7 @@
 ! Homepage: https://nativehyun.xyz
 ! License: Creative Commons BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Expires: 1 day
-! Version: 20200325
+! Version: 20200325-1
 
 ! 잠깐! 사용하기 전에...
 ! 이 필터는 제가 개인적으로 사용하려고 만든 필터입니다. 이 필터 사용에 대한 책임은 모두 사용자에게 있습니다.
@@ -83,6 +83,7 @@ entertain.v.daum.net###mArticle > div:last-child > div.box_viewrelate.box_line:n
 entertain.v.daum.net###mArticle > div:last-child > div.box_viewrelate.box_line:nth-child(3)
 m.hani.co.kr##div.base:first-child > main.article:nth-child(2) > div.article_slide_box.slide_box.height_selected.end_stop > div.slide_mid:first-child > div.slide_article.slide_item.selected > section.article.selected > article.body:nth-child(2) > div.article:nth-child(4) > div.kisa-sponsor-area.type3:nth-child(7)
 www.thescoop.co.kr###reply
+biz.chosun.com###contents
 
 ! 네이버 실시간 검색어 안볼래요
 https://www.naver.comwww.naver.com###NM_RTK_ROLLING_WRAP > .ah_l
