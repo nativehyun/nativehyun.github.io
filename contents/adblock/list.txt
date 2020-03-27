@@ -3,7 +3,7 @@
 ! Homepage: https://nativehyun.xyz
 ! License: Creative Commons BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Expires: 1 day
-! Version: 20200327-8
+! Version: 20200327-9
 
 ! 잠깐! 사용하기 전에...
 ! 이 필터는 제가 개인적으로 사용하려고 만든 필터입니다. 이 필터 사용에 대한 책임은 모두 사용자에게 있습니다.
@@ -33,6 +33,10 @@ entertain.v.daum.net##.hc_entertain_pc_mAside_asideTopAd.aside_ad.aside_g.daum_d
 sports.v.daum.net##.aside_ad.aside_g.daum_ddn_area
 auto.v.daum.net##.hc_auto_pc_mAside_topAd.\#topAd.wrap_loading.hc_news_pc_mAside_asideTopAd.aside_ad.aside_g.daum_ddn_area
 auto.v.daum.net##.hc_auto_pc_mAside_bottomAd.\#bottomAd.wrap_loading.hc_news_pc_mAside_asideBottomAd.aside_ad.aside_g.daum_ddn_area
+www.daum.net##.advert_shoppingbox
+||shop-redapi.daum.net/red-apigate/daumtop/v5/planmall$subdocument
+www.daum.net##.box_shopping
+www.daum.net##.wing_tmp
 
 ! 링크프라이스 불매할래요
 ||linkprice.com^
