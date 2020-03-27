@@ -3,7 +3,7 @@
 ! Homepage: https://nativehyun.xyz
 ! License: Creative Commons BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Expires: 1 day
-! Version: 20200327-2
+! Version: 20200327-3
 
 ! 잠깐! 사용하기 전에...
 ! 이 필터는 제가 개인적으로 사용하려고 만든 필터입니다. 이 필터 사용에 대한 책임은 모두 사용자에게 있습니다.
@@ -21,6 +21,11 @@ namu.wiki##[src="//namu.live/static/ad/"]
 namu.wiki##li:nth-of-type(4) > [href="#"]
 ! 나무위키 인기검색어 삭제
 namu.wiki##div.c:nth-of-type(3)
+
+! 기타 광고 삭제
+m.sedaily.com##.ad_banner4.banner
+m.sedaily.com##.ad_banner5.banner
+m.sedaily.com##.ad_banner6.banner
 
 ! 링크프라이스 불매할래요
 ||linkprice.com^
@@ -45,6 +50,8 @@ news.chosun.com##p:nth-of-type(2)
 news.chosun.com##p:nth-of-type(3)
 www.newspim.com##.pad_bottom10.andanews1
 www.newspim.com###coin_brief
+www.sedaily.com###div_addition
+www.sedaily.com###v-left-scroll-in > p:nth-of-type(2)
 
 ! 뉴스 댓글/좋아요 안볼래요
 ||was.livere.me/$subdocument
@@ -91,6 +98,8 @@ biz.chosun.com###contents
 news.jtbc.joins.com###divComment
 www.ytn.co.kr##.YTN_CSA_reply
 www.ytn.co.kr##.comment
+cnbc.sbs.co.kr##.ae_comment
+m.sedaily.com##.more_reple
 
 ! 네이버 실시간 검색어 안볼래요
 https://www.naver.comwww.naver.com###NM_RTK_ROLLING_WRAP > .ah_l
